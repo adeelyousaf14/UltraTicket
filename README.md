@@ -1,5 +1,5 @@
 
-# Description de projet
+# Description du projet
 
 Le système en conception est un logiciel de bureau dont la principale fonction est de permettre
 à des individus de choisir un billet de cinéma et de l’acheter. Le logiciel doit permettre aux
