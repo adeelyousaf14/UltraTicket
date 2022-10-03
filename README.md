@@ -12,6 +12,6 @@ l’espace approprié.
 - Netbeans
 
 # Auteurs
-Yousaf Adeel </br> 
-Groussi Fateh </br>
-Valentin Pigaux </br>
+YOUSAF Adeel </br> 
+GROUSSI Fateh </br>
+PIGAUX Valentin </br>
