@@ -7,3 +7,10 @@ personnes possédant un compte utilisateur de réserver un siège pour une séan
 Une fois leur film visionné, les clients pourront alors laisser une note et un commentaire dans
 l’espace approprié.
 
+# Les Outils/technologies utilisées:
+- Jswing
+
+# Auteurs
+Yousaf Adeel
+Groussi Fateh
+Valentin Pigaux
