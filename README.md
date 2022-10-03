@@ -9,6 +9,7 @@ l’espace approprié.
 
 # Les Outils/technologies utilisées:
 - Jswing
+- Netbeans
 
 # Auteurs
 Yousaf Adeel
