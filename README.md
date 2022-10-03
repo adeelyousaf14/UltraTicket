@@ -13,5 +13,5 @@ l’espace approprié.
 
 # Auteurs
 Yousaf Adeel </br> 
-Groussi Fateh. 
-Valentin Pigaux
+Groussi Fateh </br>
+Valentin Pigaux </br>
